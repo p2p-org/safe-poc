@@ -9,4 +9,4 @@ via_ir = true
 optimizer = true
 optimizer-runs = 2000
 
-rpc_endpoints = { mainnet = "https://rpc.ankr.com/eth", sepolia = "https://rpc.ankr.com/eth_sepolia", base = "https://mainnet.base.org" }
+rpc_endpoints = { mainnet = "https://rpc.ankr.com/eth", sepolia = "https://rpc.ankr.com/eth_sepolia", base = "https://mainnet.base.org", mekong = "http://141.253.108.252:8545" }
